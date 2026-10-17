@@ -1,2 +1,0 @@
-# ESL---Open-cv
-The project is a computer vision-based system that uses a camera to detect and recognize sign language gestures in real time. Using machine learning, the system analyzes hand movements and gestures, converts recognized signs into text, and displays the translated meaning on a screen UI. Its goal is to help improve communication between sign language users and people who may not understand sign language.
